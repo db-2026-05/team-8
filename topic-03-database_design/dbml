@@ -82,6 +82,14 @@ Table trainer_specializations {
   }
 }
 
+Table trainer_availability {
+  availability_id integer [pk, increment]
+  trainer_id integer [not null, ref: > trainers.trainer_id]
+  day_of_week varchar
+  start_time time
+  end_time time
+}
+
 Table classes {
   class_id integer [pk, increment]
   class_type varchar
