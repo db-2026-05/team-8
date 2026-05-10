@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Максим Логвінов | Database Designer | Продумав ядро системи для роботи з відвідувачами (сутності клієнтів та їх прогресу, типів абонементів та їх статусів). | Таблиці Members, Memberships, Progress, Attendance |
 | Пиріг Євген | Team Lead, Database Designer | Спроєктував систему занять, інвентару та графіку (сутності занять та їх графіку, інвентару та його використання) | Таблиці Classes, Equipment, Schedules, Classes_equipment, Members_classes |
-| Вадим Іскрижитський | Database Designer | Спроектував підсистему персоналу та розкладу (сутності для тренерів та їх спеціалізацій, особисті заняття). | Таблиці trainers, trainer_specialization, specializaton, personal trainings |
+| Вадим Іскрижицький | Database Designer | Спроектував підсистему персоналу та розкладу (сутності для тренерів та їх спеціалізацій, особисті заняття). | Таблиці trainers, trainer_specialization, specializaton, personal trainings |
 
 ## Контекст теми
 Максим Логвінов: клієнтський блок (відвідувачі, абонементи, прогрес).
