@@ -29,6 +29,8 @@
 -- - Script must execute in PostgreSQL without errors.
 -- ================================================================
 
+-- video: https://youtu.be/0RFmpx51yYY
+
 -- Add your script below this line
 
 -- ==========================================================
